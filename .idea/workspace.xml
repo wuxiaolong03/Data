@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c93a2486-6108-4fb2-a8d9-d578f23a2ffa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ikvDv7TRsDjh3l2VstTVEZMX9P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataCertPlatformone" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86187\go\src\DataCertPlatform\views" />
+      <recent name="C:\Users\86187\go\src\DataCertPlatform\models" />
+      <recent name="C:\Users\86187\go\src\DataCertPlatform\static" />
+      <recent name="C:\Users\86187\go\src\DataCertPlatform\controllers" />
+      <recent name="C:\Users\86187\go\src\DataCertPlatform\static\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build DataCertPlatform" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="DataCertPlatform" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="DataCertPlatform" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build DataCertPlatform" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603105586733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603105586733" />
+    <state x="434" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602466465419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="434" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602466465419" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1603969540102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603969540102" />
+    <state width="718" height="224" key="GridCell.Tab.0.bottom" timestamp="1603177776293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="718" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603177776293" />
+    <state width="718" height="224" key="GridCell.Tab.0.center" timestamp="1603177776293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="718" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603177776293" />
+    <state width="718" height="224" key="GridCell.Tab.0.left" timestamp="1603177776293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="718" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603177776293" />
+    <state width="718" height="224" key="GridCell.Tab.0.right" timestamp="1603177776293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="718" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603177776293" />
+    <state x="544" y="80" key="SettingsEditor" timestamp="1603159460251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="80" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603159460251" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/models/User.go</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
